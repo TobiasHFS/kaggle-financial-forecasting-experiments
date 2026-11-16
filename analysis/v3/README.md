@@ -3,6 +3,8 @@
 This generation audits the existing models and runs a bounded, local comparison.
 It does not publish a Kaggle submission or replace the V2 model.
 
+Later local records report a completed second-seed follow-up. The full-input TabM addition was not promoted to a new submission; it remains a retrospective comparison. See [SEED_CONFIRMATION.md](SEED_CONFIRMATION.md).
+
 All months 23-70 have already been inspected during earlier research. V3 calls
 its scores **retrospective evaluation**, never a new sealed holdout. Training
 windows always precede evaluation windows. Neural epoch selection uses the

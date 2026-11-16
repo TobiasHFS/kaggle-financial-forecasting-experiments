@@ -1,6 +1,8 @@
-# Market Forecasting Study
+# Kaggle financial forecasting experiments
 
-Experiments for the [MSCapital financial forecasting competition](https://www.kaggle.com/competitions/ms-capital-real-financial-market-forecasting), using market bars, orders and trades to predict price movements.
+AI-assisted experiments for the [MSCapital financial forecasting competition](https://www.kaggle.com/competitions/ms-capital-real-financial-market-forecasting), using market bars, orders and trades to predict price movements.
+
+Developed with heavy use of Codex and Google Antigravity.
 
 The work starts with linear and tree models in `analysis/`, adds neural models in `analysis/v2/`, and compares sequence features and model variants in `analysis/v3/`. Evaluation notes are in `analysis/v3_audit/`.
 
